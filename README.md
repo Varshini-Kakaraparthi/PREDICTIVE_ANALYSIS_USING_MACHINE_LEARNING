@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/26b3f9cd-1e7f-4dc3-a75d-839e9bcdc0ce)*COMPANY*: CODTECH IT SOLUTIONS
+*COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*: KAKARAPARTHI VARSHINI VARALSKHMI
 

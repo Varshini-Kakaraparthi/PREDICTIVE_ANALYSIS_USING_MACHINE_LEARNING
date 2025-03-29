@@ -1,4 +1,4 @@
-*COMPANY*: CODTECH IT SOLUTIONS
+![Image](https://github.com/user-attachments/assets/26b3f9cd-1e7f-4dc3-a75d-839e9bcdc0ce)*COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*: KAKARAPARTHI VARSHINI VARALSKHMI
 
@@ -12,6 +12,6 @@
 
 ##This project focuses on building a machine learning model (regression or classification) to predict outcomes based on a given dataset. The objective is to apply data preprocessing, feature selection, model training, and evaluation to derive actionable insights.
 
-*OUTPUT 1* : 
+*OUTPUT 1* : ![Image](https://github.com/user-attachments/assets/26b3f9cd-1e7f-4dc3-a75d-839e9bcdc0ce)
 
-*OUTPUT 2* : 
+*OUTPUT 2* : ![Image](https://github.com/user-attachments/assets/e79cbddb-7f8e-4104-86f0-5fcb141911c2)
